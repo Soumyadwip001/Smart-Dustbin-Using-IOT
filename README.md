@@ -1,1 +1,1 @@
-# Smart-Dustbin-Using-IOT
+A smart dustbin is an advanced trash can equipped with sensors.It automatically opens its lid when someone approaches.The system can detect when the bin is full. It can send alerts to users or waste collectors for timely disposal.
